@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C2F70B70-8DED-497E-AD5B-7EE3E806D14D}|Default">
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissors/RPSMove.cs">
+    <Files>
+      <File FileName="RockPaperScissors/RPS.cs" Line="12" Column="45" />
+      <File FileName="RockPaperScissors/RPSGame.cs" Line="6" Column="2" />
+      <File FileName="RockPaperScissors/RPSMove.cs" Line="14" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
